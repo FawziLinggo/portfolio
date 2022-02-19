@@ -1,6 +1,5 @@
-# 🔥 Responsive Portfolio Website Ansel
-## [Watch it on youtube](https://youtu.be/oy8dSsK57Ps)
-### 🔥 Responsive Portfolio Website
+# 🔥 Responsive Portfolio Website Jayakrishna D
+##🔥 Responsive Portfolio Website
 
 - Responsive Portfolio Website Using HTML CSS & JavaScript
 - Smooth scrolling in each section.
@@ -10,4 +9,3 @@
 
 💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
-![preview img](/preview.png)
