@@ -918,6 +918,10 @@ body.light-theme {
   .work__filters {
     column-gap: 0.25rem;
   }
+
+  .about__container{
+    text-align: center;
+  }
 }
 /* For medium devices */
 @media screen and (min-width: 576px) {
@@ -987,6 +991,9 @@ body.light-theme {
     grid-template-columns: repeat(2, max-content);
     justify-content: center;
     column-gap: 3rem;
+  }
+  .img__about{
+    text-align: center;
   }
 }
 /* For large devices */
