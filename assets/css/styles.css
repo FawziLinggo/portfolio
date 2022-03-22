@@ -13,9 +13,9 @@
         Pink: hsl(356, 66%, 75%)
         Teal: hsl(174, 63%, 62%)
   */
-  --first-hue: 139;
-  --sat: 100%;
-  --lig: 42%;
+  --first-hue: 174;
+  --sat: 63%;
+  --lig: 62%;
   --second-hue: 219;
   --first-color: hsl(var(--first-hue), var(--sat), var(--lig));
   --first-color-alt: hsl(var(--first-hue), var(--sat), 50%); /* -4% */
@@ -323,8 +323,8 @@ body.light-theme {
 
 .home__handle {
   justify-self: center;
-  width: 190px;
-  height: 293px;
+  width: 200px;
+  height: 260px;
   background: linear-gradient(
     180deg,
     hsla(var(--first-hue), var(--sat), var(--lig), 1),
